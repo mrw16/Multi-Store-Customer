@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "306195797804",
+    "project_id": "multi-store-f1857",
+    "storage_bucket": "multi-store-f1857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306195797804:android:2d13a8f84bc7dc53be7e89",
+        "android_client_info": {
+          "package_name": "com.example.ms_customer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306195797804-h9v78flf20kgpbr56ptvts4flbcve2j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhtoo5aT4idta7j80Jr1A4DcQF90d-hTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306195797804-h9v78flf20kgpbr56ptvts4flbcve2j5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "306195797804-o9fqdl0l90qpmoafj9oa07oo1prnv80r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.msSupplierApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306195797804:android:cbe1b047cb03bd8abe7e89",
+        "android_client_info": {
+          "package_name": "com.example.ms_supplier_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306195797804-h9v78flf20kgpbr56ptvts4flbcve2j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhtoo5aT4idta7j80Jr1A4DcQF90d-hTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306195797804-h9v78flf20kgpbr56ptvts4flbcve2j5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "306195797804-o9fqdl0l90qpmoafj9oa07oo1prnv80r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.msSupplierApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
